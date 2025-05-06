@@ -1,74 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hello, I'm Chetan Dhage 👋
 
-###
+### Information Technology Student | Web Developer | Open-Source Contributor
 
-<p align="left">My name is Chetan Dhage and I'm a B. Tech  Information Technology student, from Dr. Babasaheb Ambedkar Technological University Lonere</p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c02a0d3/tenor.gif">
 
-###
-###
-<img align="right" alt="coding" width="480px" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
-###
-<h2 align="left">About me :</h2>
+## About Me
 
-###
+I'm a B.Tech Information Technology student at Dr. Babasaheb Ambedkar Technological University, Lonere, with a passion for building robust and accessible web applications. My focus areas include:
 
-<p align="left">✨ - Creating accessible web applications.<br>      - Contributing to open-source projects.<br>      - Continuous learning and staying up-to-date with web technologies.<br>📚 I'm currently Working on Backend Frame Works<br>🎯 Goals:  Building user-friendly web applications.<br>- Making a positive impact through technology.<br>🎲 Fun fact:   I once built a web application just to irritate a friend. It included a collection of hilariously annoying features that kept them guessing! 😄🖥️</p>
+- Developing full-stack web solutions
+- Contributing to meaningful open-source projects
+- Continuous learning of modern web technologies
+- Creating maintainable and scalable code
 
-###
+**Current Focus:** Deepening my expertise in backend frameworks and system architecture
 
-<h2 align="left">Socials :</h2>
+## Technical Skills
 
-###
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/chetan-dhage-158768289/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="chetandhage25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/chetan_dhage_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/chetan.dhage.980?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-###
+## Connect With Me
 
-<h2 align="left">I code with :</h2>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhage-158768289/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetandhage25@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chetan_dhage_)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chetan.dhage.980)
 
-###
+## GitHub Activity
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Stacks :</h2>
-
-###
-
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default&username=ChetanDhage" alt="Layout with last medium posts"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChetanDhage&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhage&layout=compact&langs_count=8&theme=default"/>
 </div>
 
-###
+## Professional Goals
+
+- Build enterprise-grade web applications with excellent UX
+- Contribute to impactful open-source projects
+- Develop solutions that solve real-world problems
+- Mentor aspiring developers
+
+> "The web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past." - Tim Berners-Lee
