@@ -1,83 +1,80 @@
-# 👋 Hello, I'm Chetan Dhage
+# Hello, I'm Chetan Dhage 👋
 
-### 🚀 B.Tech IT Student | Frontend Developer | Open-Source Enthusiast
+### Full Stack Developer | Information Technology Student | Open-Source Contributor
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c02a0d3/tenor.gif">
 
-## 🧑‍🎓 About Me
+## About Me
 
-I'm a passionate Information Technology undergraduate at **Dr. Babasaheb Ambedkar Technological University, Lonere**, with a focus on building intuitive, scalable, and impactful web applications. With a strong foundation in frontend development and hands-on experience through real-world projects and internships, I strive to blend creativity with code.
+I'm a B.Tech Information Technology student at Dr. Babasaheb Ambedkar Technological University with professional experience in building full-stack web applications. My expertise spans frontend development with React and backend systems with Node.js/Express, coupled with strong database management skills.
 
-### 🔥 Currently:
-- 🌱 Enhancing skills in **React, Next.js, and backend systems**
-- 📊 Developing enterprise-grade dashboards with **Tailwind CSS** & **React**
-- 👨‍💻 Solving problems on [LeetCode](https://leetcode.com/Chetandhage) and [GFG](https://www.geeksforgeeks.org/user/chetand15et/)
+**Current Focus:** Building scalable web applications with modern JavaScript frameworks
 
----
+## Professional Experience
 
-## 🛠️ Technical Skills
+### Frontend Developer @ Aayan Softech (July 2024–Present)
+- Developed responsive web applications using React.js and Tailwind CSS
+- Built interactive dashboards for real-time data tracking
+- Automated workflows, reducing manual errors by 20%
+- Improved submission timelines by 25% through process optimization
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Technical Skills
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
----
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💼 Projects
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧑‍🌾 Farmer Empowerment System  
-Empowered farmers by providing real-time supply-demand insights using **React.js + Tailwind CSS + PostgreSQL**  
-🚜 Helped increase farmer profits by 15% during pilot rollout.
+## Featured Projects
 
-### 🎓 Scholarship Management System  
-Streamlined scholarship exam management for 150+ schools.  
-📊 Built with **React.js** and **Tailwind CSS**, supporting real-time dashboards and automation.
+### Farmer Empowerment System
+- React.js, Tailwind CSS, PostgreSQL
+- Platform analyzing supply-demand data to help farmers secure better prices
+- Achieved 15% increase in farmer profits during pilot phase
 
----
+### Scholarship Management System
+- React.js, Tailwind CSS
+- Automated exam management for 150 schools
+- Implemented real-time result tracking dashboards
 
-## 📜 Certifications
-- **Next.js 15 & React** – *Udemy* (2024)  
-- **Frontend Developer Bootcamp** – *GeeksforGeeks* (2023)  
-- **Responsive Web Design** – *freeCodeCamp* (2023)
+## Education
 
----
+**B.Tech in Information Technology**  
+Dr. Babasaheb Ambedkar Technological University, Lonere  
+2021–Present | CGPA: 7.09
 
-## 👥 Connect With Me
+## Certifications
+- Next JS 15 & React (Udemy)
+- Frontend Developer Bootcamp (GeeksforGeeks)
+- Responsive Web Design (freeCodeCamp)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhage-158768289/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanDhage)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetandhage45@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chetan_dhage_)
+## Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhage-158768289/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetandhage25@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanDhage)
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChetanDhage&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhage&layout=compact&langs_count=8&theme=default"/>
 </div>
 
----
-
-## 🎯 Career Goals
-
-- 🔧 Build scalable and secure web platforms
-- 🌍 Contribute to open-source for societal impact
-- 🤝 Collaborate with cross-functional teams
-- 🧑‍🏫 Mentor aspiring web developers
-
-> “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
+> "The best way to predict the future is to invent it." - Alan Kay
