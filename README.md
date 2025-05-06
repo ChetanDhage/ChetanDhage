@@ -10,14 +10,6 @@ I'm a B.Tech Information Technology student at Dr. Babasaheb Ambedkar Technologi
 
 **Current Focus:** Building scalable web applications with modern JavaScript frameworks
 
-## Professional Experience
-
-### Frontend Developer @ Aayan Softech (July 2024–Present)
-- Developed responsive web applications using React.js and Tailwind CSS
-- Built interactive dashboards for real-time data tracking
-- Automated workflows, reducing manual errors by 20%
-- Improved submission timelines by 25% through process optimization
-
 ## Technical Skills
 
 ### Frontend
@@ -41,32 +33,12 @@ I'm a B.Tech Information Technology student at Dr. Babasaheb Ambedkar Technologi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Featured Projects
 
-### Farmer Empowerment System
-- React.js, Tailwind CSS, PostgreSQL
-- Platform analyzing supply-demand data to help farmers secure better prices
-- Achieved 15% increase in farmer profits during pilot phase
 
-### Scholarship Management System
-- React.js, Tailwind CSS
-- Automated exam management for 150 schools
-- Implemented real-time result tracking dashboards
-
-## Education
-
-**B.Tech in Information Technology**  
-Dr. Babasaheb Ambedkar Technological University, Lonere  
-2021–Present | CGPA: 7.09
-
-## Certifications
-- Next JS 15 & React (Udemy)
-- Frontend Developer Bootcamp (GeeksforGeeks)
-- Responsive Web Design (freeCodeCamp)
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhage-158768289/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhage-158768289//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetandhage25@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanDhage)
 
@@ -77,4 +49,3 @@ Dr. Babasaheb Ambedkar Technological University, Lonere
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhage&layout=compact&langs_count=8&theme=default"/>
 </div>
 
-> "The best way to predict the future is to invent it." - Alan Kay
